@@ -1,2 +1,3 @@
-# co_umi_mobily
-Mobil x Radiace
+# Radioaktivita
+***By Dominik Valigura and Matyáš Velecký***
+Do hodiny PVY, IT1
